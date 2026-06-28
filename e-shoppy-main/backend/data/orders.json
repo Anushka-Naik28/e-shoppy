@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ORD-960757",
+    "timestamp": "2026-06-22T18:24:04.127Z",
+    "items": [
+      {
+        "id": "smartphone",
+        "name": "Smartphone",
+        "price": 499,
+        "quantity": 2
+      }
+    ],
+    "total": 998,
+    "status": "Pending"
+  },
+  {
+    "id": "ORD-508019",
+    "timestamp": "2026-06-22T18:26:24.521Z",
+    "items": [
+      {
+        "id": "smartphone",
+        "name": "Smartphone",
+        "price": 499,
+        "image": "images/product1.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "smartwatch",
+        "name": "Smartwatch",
+        "price": 199,
+        "image": "images/product3.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 698,
+    "status": "Pending"
+  },
+  {
+    "id": "ORD-717482",
+    "timestamp": "2026-06-22T18:38:27.020Z",
+    "items": [
+      {
+        "id": "smartphone",
+        "name": "Smartphone",
+        "price": 499,
+        "image": "images/product1.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "headphones",
+        "name": "Headphones",
+        "price": 99,
+        "image": "images/product2.jpg",
+        "quantity": 1
+      }
+    ],
+    "total": 598,
+    "status": "Pending"
+  }
+]

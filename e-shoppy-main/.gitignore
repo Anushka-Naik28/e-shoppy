@@ -1,0 +1,14 @@
+# Node modules
+**/node_modules/
+npm-debug.log*
+
+# Vite build directories
+**/dist/
+**/dist-ssr/
+*.local
+
+# Editor / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

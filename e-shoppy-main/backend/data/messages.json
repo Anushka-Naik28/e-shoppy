@@ -1,0 +1,18 @@
+[
+  {
+    "id": "MSG-151750",
+    "timestamp": "2026-06-22T18:24:04.123Z",
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Hello World",
+    "message": "This is a full-stack automated test message."
+  },
+  {
+    "id": "MSG-872115",
+    "timestamp": "2026-06-22T18:39:53.599Z",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "subject": "Question about Headphones",
+    "message": "Hello, I wanted to inquire about the pricing of the Headphones. Are there any discounts currently available?"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "smartphone",
+    "name": "Quantum X1 Smartphone",
+    "price": 899,
+    "image": "images/product1.jpg",
+    "category": "mobile",
+    "description": "Next-gen flagship smartphone with a stunning 120Hz OLED display, advanced triple-lens camera system, and all-day battery life.",
+    "features": [
+      "6.7\" Super Retina XDR 120Hz OLED display",
+      "Quantum 5G Bionic Chip for lightning speed",
+      "Pro 48MP triple camera system with Cinematic Mode"
+    ],
+    "rating": 4.9,
+    "reviewsCount": 248,
+    "stock": 8
+  },
+  {
+    "id": "headphones",
+    "name": "AeroFlow ANC Headphones",
+    "price": 299,
+    "image": "images/product2.jpg",
+    "category": "audio",
+    "description": "High-fidelity wireless over-ear headphones with industry-leading hybrid Active Noise Cancellation (ANC) and spatial audio.",
+    "features": [
+      "Custom-engineered 40mm dynamic drivers",
+      "Up to 30 hours of continuous battery life",
+      "Advanced Transparency Mode for environmental awareness"
+    ],
+    "rating": 4.8,
+    "reviewsCount": 182,
+    "stock": 14
+  },
+  {
+    "id": "smartwatch",
+    "name": "Horizon Watch Pro",
+    "price": 199,
+    "image": "images/product3.jpg",
+    "category": "wearables",
+    "description": "Track your fitness, monitor heart stats, and stay connected with this premium, swimproof titanium smartwatch.",
+    "features": [
+      "Always-on LTPO Retina display",
+      "Built-in ECG, SpO2, and Sleep tracking sensors",
+      "Water-resistant up to 50m with GPS mapping"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 315,
+    "stock": 19
+  },
+  {
+    "id": "powerpad",
+    "name": "PowerPad 3-in-1 Wireless Charger",
+    "price": 79,
+    "image": "images/product2.jpg",
+    "category": "smarthome",
+    "description": "Sleek glass and aluminum charging dock that wirelessly powers your phone, smartwatch, and wireless earbuds simultaneously.",
+    "features": [
+      "15W fast wireless charging technology",
+      "Intelligent safety controls against overheating",
+      "Premium magnetic alignment for modern devices"
+    ],
+    "rating": 4.5,
+    "reviewsCount": 94,
+    "stock": 25
+  },
+  {
+    "id": "auravoice",
+    "name": "AuraVoice Smart Speaker",
+    "price": 129,
+    "image": "images/product3.jpg",
+    "category": "smarthome",
+    "description": "A compact voice-controlled smart assistant speaker with immersive 360-degree high-fidelity audio and smart home controls.",
+    "features": [
+      "Immersive 360-degree omni-directional sound",
+      "Hands-free AI voice assistant integration",
+      "Smart home hub to control lighting and thermostats"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 110,
+    "stock": 6
+  },
+  {
+    "id": "nebulatab",
+    "name": "Nebula Tab 11 Pro",
+    "price": 599,
+    "image": "images/product1.jpg",
+    "category": "mobile",
+    "description": "An ultra-slim 11-inch metal tablet built for creators, featuring an octa-core CPU, high-res canvas, and active stylus support.",
+    "features": [
+      "11.2\" 2K HDR10+ cinematic screen",
+      "Powerful Octa-Core Processor with 8GB RAM",
+      "Included Bluetooth active stylus pen with magnetic clip"
+    ],
+    "rating": 4.7,
+    "reviewsCount": 78,
+    "stock": 5
+  },
+  {
+    "id": "podsound",
+    "name": "PodSound True Wireless Earbuds",
+    "price": 149,
+    "image": "images/product2.jpg",
+    "category": "audio",
+    "description": "True wireless earbuds delivering deep punchy bass, crystal-clear calls, customizable EQ, and a pocketable charging case.",
+    "features": [
+      "Active Noise Cancellation with dual-mic setup",
+      "IPX7 sweat and water resistant build",
+      "Total 28 hours playtime with wireless charging case"
+    ],
+    "rating": 4.6,
+    "reviewsCount": 420,
+    "stock": 22
+  },
+  {
+    "id": "pulseband",
+    "name": "PulseBand Slim Tracker",
+    "price": 59,
+    "image": "images/product3.jpg",
+    "category": "wearables",
+    "description": "A lightweight and ultra-slim fitness band that tracks steps, calorie burn, heart rate, and sleep quality 24/7.",
+    "features": [
+      "AMOLED slim vertical touchscreen",
+      "Up to 10 days of battery life per charge",
+      "Automatic workout detection and reminders"
+    ],
+    "rating": 4.3,
+    "reviewsCount": 150,
+    "stock": 30
+  }
+]
